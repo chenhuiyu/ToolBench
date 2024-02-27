@@ -1,0 +1,17 @@
+{
+    "tool_description": "Search Product based on user's requiremnts",
+    "name": "Search for products based on various criteria like color, size, category, price range.",
+    "title": "Product Search",
+    "tool_name": "Product Search",
+    "api_list": [
+        {
+            "name": "product_search",
+            "url": "",
+            "description": "Search for products based on various criteria like color, size, category, price range.",
+            "method": "GET",
+            "required_parameters": ["category"],
+            "optional_parameters": ["color", "size", "price_range"]
+        }
+    ],
+    "standardized_name": "product_search"
+}
