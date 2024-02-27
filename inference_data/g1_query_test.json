@@ -1,0 +1,13 @@
+[
+   {
+      "api_list":[
+         {
+            "category_name":"Customized",
+            "tool_name":"Product Search",
+            "api_name":"product_search"
+         }
+      ],
+      "query":"Do you have black tshirt?",
+      "query_id":1
+   }
+]

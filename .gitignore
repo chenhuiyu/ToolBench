@@ -1,4 +1,4 @@
-data/
+# data/
 data.zip
 *.DS_store
 
@@ -8,3 +8,4 @@ run.bash
 
 *.pyc
 **/__pycache__
+.history/
