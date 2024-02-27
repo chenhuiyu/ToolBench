@@ -1,4 +1,9 @@
-# data/
+# 忽略data文件夹下的所有内容
+data/*
+
+# 但不忽略data/toolenv/tools/Customized文件夹
+!data/toolenv/tools/Customized/
+
 data.zip
 *.DS_store
 
